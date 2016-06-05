@@ -17,7 +17,7 @@ namespace MvcmusicStore.Models
 
         public virtual decimal Price { get; set; }
 
-        public virtual string AlbumArturl { get; set; }
+        public virtual string AlbumArtUrl { get; set; }
 
         public virtual Genre Genre { get; set; }
 
